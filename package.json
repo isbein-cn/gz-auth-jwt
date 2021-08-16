@@ -2,7 +2,7 @@
   "name": "gz-auth-jwt",
   "description": "Hapi.js Authentication Plugin/Scheme using JSON Web Tokens (JWT)",
   "homepage": "https://gitee.com/oksever/gz-auth-jwt#readme",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+ssh://gitee.com/oksever/gz-auth-jwt.git"
